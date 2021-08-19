@@ -1,1 +1,0 @@
-(()=>{var e={819:e=>{e.exports=function(){return`Hello there! Today we are in ${(new Date).getFullYear()}`}}},t={};function r(n){var o=t[n];if(void 0!==o)return o.exports;var a=t[n]={exports:{}};return e[n](a,a.exports,r),a.exports}(()=>{const e=r(819);document.getElementById("main-btn").addEventListener("click",(function(){alert(e())}))})()})();
