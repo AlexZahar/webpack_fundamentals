@@ -1,0 +1,13 @@
+#main-btn {
+  font-size: 2rem;
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+#main-btn:hover {
+  cursor: pointer;
+  background-color: blueviolet;
+}
+body > button#main-btn {
+  font-size: 4rem;
+}
