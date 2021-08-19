@@ -1,3 +1,5 @@
+const greet = require("./greeting");
+
 function hello() {
   alert(greet());
 }
